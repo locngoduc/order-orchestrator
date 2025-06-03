@@ -1,0 +1,3 @@
+[submodule "order-infra"]
+	path = order-infra
+	url = git@github.com:locngoduc/order-infra.git
