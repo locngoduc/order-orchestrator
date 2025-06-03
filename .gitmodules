@@ -1,3 +1,6 @@
 [submodule "order-infra"]
 	path = order-infra
 	url = git@github.com:locngoduc/order-infra.git
+[submodule "order-service"]
+	path = order-service
+	url = git@github.com:locngoduc/order-service.git
